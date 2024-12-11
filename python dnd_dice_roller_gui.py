@@ -33,4 +33,4 @@ result_label.pack()
 
 # Запускаем главный цикл приложения
 root.mainloop()
-# cook your dish here
+
